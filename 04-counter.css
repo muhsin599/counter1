@@ -1,0 +1,38 @@
+ body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(7, 7, 161);
+  }
+  .geneal{
+   padding-left: 45px;
+   padding-right: 45px;
+   padding-bottom: 8px;
+    border: none;
+    background-color:white;
+    border-width: 1.1px;
+    border-style: solid;
+    border-radius: 8px;
+  }
+  .pragraph-css{
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+    color: blue;
+  }
+  .btn1-js,.btn2-js,.btn3-js{
+    background-color: blue;
+    border: none;
+    padding: 4px 35px;
+    color: white;
+    border-radius: 6px;
+    display: block;
+    margin-bottom: 8px;
+    width: 100%;
+    cursor: pointer;
+  }
+  .btn3-js{
+    background-color: hwb(0 0% 0%);
+  }
